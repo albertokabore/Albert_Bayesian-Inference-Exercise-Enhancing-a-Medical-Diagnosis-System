@@ -1,0 +1,12 @@
+pandas>=2.2
+numpy>=1.26
+scipy>=1.13
+scikit-learn>=1.5
+matplotlib>=3.9
+seaborn>=0.13
+pymc>=5.16
+arviz>=0.19
+jupyter>=1.0
+nbclient>=0.10
+ipykernel>=6.29
+python-docx>=1.1
